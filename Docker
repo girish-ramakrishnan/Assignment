@@ -1,4 +1,25 @@
-sudo -i
-apt-get update
-apt-get install  docker.io -y
-docker --version
+Assignment 1
+    sudo -i
+    apt-get update
+      apt-get install  docker.io -y
+      docker --version
+      docker pull ubuntu
+      docker images
+      docker run -it -d -p 80:80 ubuntu
+      docker ps
+      docker exec -it cd42ec783f03 bash
+        apt-get update
+        apt-get install apache2 -y
+        service apache2 status
+        service apache2 start
+        service apache2 status
+      docker ps
+Assignment 2
+   docker commit cd42ec783f03 ubuntu_apache
+   docker images
+   docker ps
+   docker images
+   docker run -it -d -p 81:80 ubuntu_apache
+   docker os
+   docker ps
+   docker exec -it c55adca31aa3 bash
