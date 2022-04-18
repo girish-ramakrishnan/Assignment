@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T22:47:12.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="UgzyfsmZ7cgl5Fv3aF_D" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T22:49:45.173Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="PC-HLXU88rv4f8PrTD6F" version="17.4.5" type="github">
   <diagram id="5o76C8H-t2fG6f7M7bVM" name="Page-1">
     <mxGraphModel dx="1351" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C5VMkjuwG1pfUvaqZvDV-10" value="Index.html&lt;br&gt;Images" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="C5VMkjuwG1pfUvaqZvDV-10" value="Index.html&lt;br&gt;Images" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="90" y="130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-11" value="Dockerfile" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -72,11 +72,11 @@
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-25" value="Build and Test (81:80)&amp;nbsp;&lt;br&gt;&lt;br&gt;Commend to Build My Docker file and the Location of DOCKER File" style="text;html=1;strokeColor=#36393d;fillColor=#cce5ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="360" y="490" width="180" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="C5VMkjuwG1pfUvaqZvDV-26" value="INSTALl JENKINS&lt;br&gt;INSTALl JAVA&lt;br&gt;INSTAll DOCKER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="70" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="C5VMkjuwG1pfUvaqZvDV-26" value="INSTALl JENKINS&lt;br&gt;INSTALl JAVA&lt;br&gt;INSTAll DOCKER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-27" value="Install JAVA&lt;br&gt;Install Docker" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="420" y="210" width="130" height="40" as="geometry" />
+          <mxGeometry x="430" y="240" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-28" value="JOB2" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="360" y="300" width="60" height="30" as="geometry" />
@@ -91,7 +91,7 @@
           <mxGeometry x="760" y="175" width="195" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-34" value="Install JAVA&lt;br&gt;Install Docker" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="820" y="211" width="130" height="40" as="geometry" />
+          <mxGeometry x="830" y="240" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-35" value="JOB 3" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="760" y="301" width="60" height="30" as="geometry" />
@@ -108,13 +108,13 @@
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-38" value="COMMIT" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="250" y="301" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C5VMkjuwG1pfUvaqZvDV-39" value="82:80" style="text;html=1;strokeColor=#36393d;fillColor=#ffff88;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="C5VMkjuwG1pfUvaqZvDV-39" value="82:80" style="text;html=1;strokeColor=#36393d;fillColor=#ffff88;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;sketch=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C5VMkjuwG1pfUvaqZvDV-40" value="81:80" style="text;html=1;strokeColor=#36393d;fillColor=#ffff88;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="C5VMkjuwG1pfUvaqZvDV-40" value="81:80" style="text;html=1;strokeColor=#36393d;fillColor=#ffff88;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;sketch=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="480" y="453" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C5VMkjuwG1pfUvaqZvDV-41" value="81:80" style="text;html=1;strokeColor=#36393d;fillColor=#ffff88;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="C5VMkjuwG1pfUvaqZvDV-41" value="81:80" style="text;html=1;strokeColor=#36393d;fillColor=#ffff88;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;sketch=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="880" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/2857/logo-github-128.png;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=3;" vertex="1" parent="1">
