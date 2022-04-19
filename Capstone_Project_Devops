@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T03:10:10.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="JqW5k5yrxi8gVseVjqIy" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-19T03:12:23.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="0nyhe9uEdZULl_-5hZw-" version="17.4.5" type="github">
   <diagram id="5o76C8H-t2fG6f7M7bVM" name="Page-1">
     <mxGraphModel dx="1673" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -142,8 +142,8 @@
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-53" value="t2.micro" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;sketch=0;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="917" y="212" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C5VMkjuwG1pfUvaqZvDV-62" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;CAPSTONE PROJECT - DEVOPS - ARCHITETURE DIAGRAM&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="-80" width="840" height="30" as="geometry" />
+        <mxCell id="C5VMkjuwG1pfUvaqZvDV-62" value="&lt;b style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;CAPSTONE PROJECT - DEVOPS - ARCHITETURE DIAGRAM&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=27;" parent="1" vertex="1">
+          <mxGeometry x="160" y="-100" width="840" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
