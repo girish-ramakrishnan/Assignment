@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-21T02:36:46.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="KkFldRBw6yS9yt4_S7--" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-21T02:55:17.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="wl0lNSx40UHb-arA1d0w" version="17.4.6" type="github">
   <diagram id="5o76C8H-t2fG6f7M7bVM" name="DevOps">
     <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="40" y="120" width="320" height="480" as="geometry" />
         </mxCell>
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-5" value="&lt;h1&gt;MASTER&lt;/h1&gt;" style="text;html=1;strokeColor=#36393d;fillColor=#eeeeee;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;glass=1;sketch=1;shadow=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="280" height="40" as="geometry" />
+          <mxGeometry x="40" y="77" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-8" value="Pulling Github Data" style="text;html=1;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="379" y="90" width="140" height="30" as="geometry" />
@@ -49,20 +49,28 @@
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-24" value="JOB1" style="text;html=1;strokeColor=#36393d;fillColor=#cce5ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="481" y="453" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C5VMkjuwG1pfUvaqZvDV-25" value="Build and Test (81:80)&amp;nbsp;&lt;br&gt;&lt;br&gt;Commend to Build My Docker file and the Location of DOCKER File" style="text;html=1;strokeColor=#36393d;fillColor=#cce5ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="C5VMkjuwG1pfUvaqZvDV-25" value="Build and Test (81:80)&amp;nbsp;&lt;br&gt;&lt;br&gt;Command to Build My Docker file and the Location of DOCKER File" style="text;html=1;strokeColor=#36393d;fillColor=#cce5ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="481" y="488" width="222" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="QinZJ94hqi7EqPIREaml-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.785;entryY=0.424;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=27;" parent="1" source="C5VMkjuwG1pfUvaqZvDV-26" target="C5VMkjuwG1pfUvaqZvDV-46" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QinZJ94hqi7EqPIREaml-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=27;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="C5VMkjuwG1pfUvaqZvDV-26" target="C5VMkjuwG1pfUvaqZvDV-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-26" value="INSTALl JENKINS&lt;br&gt;INSTALl JAVA&lt;br&gt;INSTAll DOCKER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="160" y="140" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C5VMkjuwG1pfUvaqZvDV-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="C5VMkjuwG1pfUvaqZvDV-27" target="C5VMkjuwG1pfUvaqZvDV-47" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="C5VMkjuwG1pfUvaqZvDV-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="C5VMkjuwG1pfUvaqZvDV-27" target="C5VMkjuwG1pfUvaqZvDV-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="242" />
+              <mxPoint x="585" y="280" />
+              <mxPoint x="501" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-27" value="Install JAVA&lt;br&gt;Install Docker" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;gradientColor=#ea6b66;" parent="1" vertex="1">
-          <mxGeometry x="549" y="240" width="130" height="40" as="geometry" />
+          <mxGeometry x="650" y="222" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-28" value="JOB2" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="481" y="300" width="60" height="30" as="geometry" />
@@ -70,7 +78,7 @@
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;shadow=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="962" y="210" width="318" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="C5VMkjuwG1pfUvaqZvDV-29" value="Build and Test (82:80)&amp;nbsp;&lt;br&gt;&lt;br&gt;Commend to Build My Docker file and the Location of DOCKER File" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;gradientColor=#97d077;" parent="1" vertex="1">
+        <mxCell id="C5VMkjuwG1pfUvaqZvDV-29" value="Build and Test (82:80)&amp;nbsp;&lt;br&gt;&lt;br&gt;Command to Build My Docker file and the Location of DOCKER File" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="481" y="339" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-31" value="&lt;h1&gt;PRODUCTION&lt;/h1&gt;" style="text;html=1;strokeColor=#36393d;fillColor=#f9f7ed;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;glass=1;shadow=1;sketch=1;align=center;" parent="1" vertex="1">
@@ -119,10 +127,10 @@
           <mxGeometry x="962" y="235" width="37" height="37" as="geometry" />
         </mxCell>
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-50" value="t2.medium" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;sketch=0;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="85" y="120" width="65" height="30" as="geometry" />
+          <mxGeometry x="90" y="130" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-52" value="t2.micro" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;sketch=0;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="519" y="205" width="60" height="30" as="geometry" />
+          <mxGeometry x="524" y="222" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C5VMkjuwG1pfUvaqZvDV-53" value="t2.micro" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;glass=0;sketch=0;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="999" y="212" width="60" height="30" as="geometry" />
